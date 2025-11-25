@@ -1,0 +1,13 @@
+# Maven build output
+target/
+# Allure reports
+allure-results/
+.allure/
+# IDE files
+.vscode/
+.idea/
+*.iml
+# Logs
+*.log
+# macOS Finder files
+.DS_Store
