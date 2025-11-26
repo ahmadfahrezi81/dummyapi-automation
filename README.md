@@ -1,16 +1,3 @@
-Your current `README.md` is **excellent**—it's professional, comprehensive, and well-structured. You've covered all the technical requirements and project details perfectly.
-
-To make it even more impactful and directly highlight the skills requested in Task 2 (Design Pattern & Clean Code), I have made two key refinements:
-
-1.  **Refined Design Patterns:** Explicitly call out the **Service Object Model** and the **Builder Pattern** as the primary choices, which are the gold standard for API testing frameworks.
-2.  **Simplified Test Scenarios:** Used clearer terminology (e.g., "Schema Validation") to describe your testing depth.
-
-Here is the updated, simplified, and strategically refined Markdown:
-
------
-
-## 🚀 Updated `README.md` for Task 2
-
 # FakerAPI Automation Test Project
 
 This project contains automated API tests for **FakerAPI** using Java, RestAssured, and TestNG. The framework is built on **clean code principles** and employs essential **design patterns** for maintainability and scalability.
