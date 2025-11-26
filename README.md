@@ -1,4 +1,4 @@
-# FakerAPI Automation Test Project
+# Task 2: API Automation Test for FakerAPI
 
 This project contains automated API tests for **FakerAPI** using Java, RestAssured, and TestNG. The framework is built on **clean code principles** and employs essential **design patterns** for maintainability and scalability.
 
@@ -22,7 +22,7 @@ Ensure you have the following installed:
 
 1.  **Clone the repository** (or navigate to the project directory):
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ahmadfahrezi81/dummyapi-automation.git
     cd dummyapi-automation
     ```
 
